@@ -3,7 +3,7 @@ guid: 60a164ce781b8c443bef684632d357cb
 timeCreated: 1520191300
 licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: door
     100002: //RootNode
@@ -23,6 +23,74 @@ ModelImporter:
     100030: transform4
     100032: transform5
     100034: transform6
+    100036: hut1:pCone1
+    100038: hut1:pCube1
+    100040: hut1:pCube2
+    100042: hut1:pCylinder1
+    100044: hut1:pCylinder3
+    100046: hut1:pPipe1
+    100048: hut1:pPipe2
+    100050: hut1:pPipe3
+    100052: hut1:pSphere1
+    100054: hut1:pTorus1
+    100056: hut1:transform1
+    100058: hut1:transform2
+    100060: hut1:transform3
+    100062: hut1:transform4
+    100064: hut1:transform5
+    100066: hut1:transform6
+    100068: hut2:pCone1
+    100070: hut2:pCube1
+    100072: hut2:pCube2
+    100074: hut2:pCylinder1
+    100076: hut2:pCylinder3
+    100078: hut2:pPipe1
+    100080: hut2:pPipe2
+    100082: hut2:pPipe3
+    100084: hut2:pSphere1
+    100086: hut2:pTorus1
+    100088: hut2:transform1
+    100090: hut2:transform2
+    100092: hut2:transform3
+    100094: hut2:transform4
+    100096: hut2:transform5
+    100098: hut2:transform6
+    100100: hut3:door
+    100102: hut3:pCone1
+    100104: hut3:pCube1
+    100106: hut3:pCube2
+    100108: hut3:pCylinder1
+    100110: hut3:pCylinder3
+    100112: hut3:pPipe1
+    100114: hut3:pPipe2
+    100116: hut3:pPipe3
+    100118: hut3:pSphere1
+    100120: hut3:pTorus1
+    100122: hut3:transform1
+    100124: hut3:transform2
+    100126: hut3:transform3
+    100128: hut3:transform4
+    100130: hut3:transform5
+    100132: hut3:transform6
+    100134: hut:pCone1
+    100136: hut:pCube1
+    100138: hut:pCube2
+    100140: hut:pCylinder1
+    100142: hut:pCylinder3
+    100144: hut:pPipe1
+    100146: hut:pPipe2
+    100148: hut:pSphere1
+    100150: hut:pTorus1
+    100152: hut:Shell
+    100154: hut:transform1
+    100156: hut:transform2
+    100158: hut:transform3
+    100160: hut:transform4
+    100162: hut:transform5
+    100164: hut:transform6
+    100166: hut3:Base
+    100168: hut3:Roof
+    100170: hut3:Walls
     400000: door
     400002: //RootNode
     400004: pCone1
@@ -41,6 +109,74 @@ ModelImporter:
     400030: transform4
     400032: transform5
     400034: transform6
+    400036: hut1:pCone1
+    400038: hut1:pCube1
+    400040: hut1:pCube2
+    400042: hut1:pCylinder1
+    400044: hut1:pCylinder3
+    400046: hut1:pPipe1
+    400048: hut1:pPipe2
+    400050: hut1:pPipe3
+    400052: hut1:pSphere1
+    400054: hut1:pTorus1
+    400056: hut1:transform1
+    400058: hut1:transform2
+    400060: hut1:transform3
+    400062: hut1:transform4
+    400064: hut1:transform5
+    400066: hut1:transform6
+    400068: hut2:pCone1
+    400070: hut2:pCube1
+    400072: hut2:pCube2
+    400074: hut2:pCylinder1
+    400076: hut2:pCylinder3
+    400078: hut2:pPipe1
+    400080: hut2:pPipe2
+    400082: hut2:pPipe3
+    400084: hut2:pSphere1
+    400086: hut2:pTorus1
+    400088: hut2:transform1
+    400090: hut2:transform2
+    400092: hut2:transform3
+    400094: hut2:transform4
+    400096: hut2:transform5
+    400098: hut2:transform6
+    400100: hut3:door
+    400102: hut3:pCone1
+    400104: hut3:pCube1
+    400106: hut3:pCube2
+    400108: hut3:pCylinder1
+    400110: hut3:pCylinder3
+    400112: hut3:pPipe1
+    400114: hut3:pPipe2
+    400116: hut3:pPipe3
+    400118: hut3:pSphere1
+    400120: hut3:pTorus1
+    400122: hut3:transform1
+    400124: hut3:transform2
+    400126: hut3:transform3
+    400128: hut3:transform4
+    400130: hut3:transform5
+    400132: hut3:transform6
+    400134: hut:pCone1
+    400136: hut:pCube1
+    400138: hut:pCube2
+    400140: hut:pCylinder1
+    400142: hut:pCylinder3
+    400144: hut:pPipe1
+    400146: hut:pPipe2
+    400148: hut:pSphere1
+    400150: hut:pTorus1
+    400152: hut:Shell
+    400154: hut:transform1
+    400156: hut:transform2
+    400158: hut:transform3
+    400160: hut:transform4
+    400162: hut:transform5
+    400164: hut:transform6
+    400166: hut3:Base
+    400168: hut3:Roof
+    400170: hut3:Walls
     2100000: lambert1
     2100002: stone
     2100004: metal
@@ -52,23 +188,78 @@ ModelImporter:
     2300004: pCylinder3
     2300006: pPipe3
     2300008: pTorus1
+    2300010: hut1:pCone1
+    2300012: hut1:pCylinder3
+    2300014: hut1:pPipe3
+    2300016: hut1:pTorus1
+    2300018: hut2:pCone1
+    2300020: hut2:pCylinder3
+    2300022: hut2:pPipe3
+    2300024: hut2:pTorus1
+    2300026: hut3:door
+    2300028: hut3:pCone1
+    2300030: hut3:pCylinder3
+    2300032: hut3:pPipe3
+    2300034: hut3:pTorus1
+    2300036: hut:pCone1
+    2300038: hut:pCylinder3
+    2300040: hut:pTorus1
+    2300042: hut:Shell
+    2300044: hut3:Base
+    2300046: hut3:Roof
     3300000: door
     3300002: pCone1
     3300004: pCylinder3
     3300006: pPipe3
     3300008: pTorus1
+    3300010: hut1:pCone1
+    3300012: hut1:pCylinder3
+    3300014: hut1:pPipe3
+    3300016: hut1:pTorus1
+    3300018: hut2:pCone1
+    3300020: hut2:pCylinder3
+    3300022: hut2:pPipe3
+    3300024: hut2:pTorus1
+    3300026: hut3:door
+    3300028: hut3:pCone1
+    3300030: hut3:pCylinder3
+    3300032: hut3:pPipe3
+    3300034: hut3:pTorus1
+    3300036: hut:pCone1
+    3300038: hut:pCylinder3
+    3300040: hut:pTorus1
+    3300042: hut:Shell
+    3300044: hut3:Base
+    3300046: hut3:Roof
     4300000: pCone1
     4300002: pTorus1
     4300004: pPipe3
     4300006: door
     4300008: pCylinder3
+    4300010: hut:pCone1
+    4300012: hut:pTorus1
+    4300014: hut:Shell
+    4300016: hut:pCylinder3
+    4300018: hut1:pCone1
+    4300020: hut1:pTorus1
+    4300022: hut1:pPipe3
+    4300024: hut1:pCylinder3
+    4300026: hut2:pCone1
+    4300028: hut2:pTorus1
+    4300030: hut2:pPipe3
+    4300032: hut2:pCylinder3
+    4300034: hut3:pCone1
+    4300036: hut3:pTorus1
+    4300038: hut3:pPipe3
+    4300040: hut3:door
+    4300042: hut3:pCylinder3
+    4300044: hut3:Roof
+    4300046: hut3:Base
     9500000: //RootNode
-  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -81,14 +272,12 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -96,18 +285,13 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -117,7 +301,6 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
